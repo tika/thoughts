@@ -1,6 +1,5 @@
-# Blog Archive
+# My Blog (Thoughts)
 
-This is an automatic blog archive for my blog https://blog.capon.io/
-Any changes made to articles are reflected here, in this repository
+This is a repo hosting the md files for my blog found at https://capon.io/blog.
 
-View source code: https://github.com/tika/capon-blog
+Find website source code: https://github.com/tika/info. Visit the website at https://capon.io.
